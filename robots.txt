@@ -1,0 +1,15 @@
+#User-agent: *
+#Disallow: /
+
+#User-agent: Yandex
+
+#host:https://drevdom-ekb.ru
+#Sitemap: https://drevdom-ekb.ru/sitemap.xml
+
+User-agent: *
+Disallow: /test/
+Disallow: /test2/
+Disallow: /pro/
+Disallow: /?*
+#Disallow: /karkas.php?*
+Disallow: /assets/components/bot/bot.php
